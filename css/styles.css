@@ -161,6 +161,7 @@ footer p{
 }
 
 /*Modale*/
+
 .modale{
     position: fixed;
     top: 0;
@@ -174,7 +175,7 @@ footer p{
     align-items: center;
 }
 
-.modale .visible{
+.visible{
     display: flex;
 }
 
